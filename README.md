@@ -6,9 +6,11 @@ Register Number : 21222304064
 
 Date : 24-09-2024
 
+
 AIM:
 
 To write a C program to implement a symbol table.
+
 
 ALGORITHM:
 
@@ -20,6 +22,7 @@ While reading, the input symbol is inserted into symbol table along with its mem
 The steps are repeated till ‘$’ is reached.
 To reach a variable, enter the variable to be searched and symbol table has been checked for corresponding variable, the variable along with its address is displayed as result.
 Stop the program.
+
 
 PROGRAM:
 ```
@@ -86,7 +89,9 @@ int main() {
 
 ```
 
+
 OUTPUT:
+
 ![image](https://github.com/user-attachments/assets/0eda6eb1-67b4-4d1b-a097-097f9d03d65c)
 
 
